@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="yellow_500">#FFC107</color>
+    <color name="yellow_700">#FFA000</color>
+    <color name="yellow_200">#FFECB3</color>
+    <color name="yellow_100">#FFF9C4</color>
+    
+    <!-- Secondary Colors -->
+    <color name="green_500">#4CAF50</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_100">#C8E6C9</color>
+    
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+    
+    <!-- Status Colors -->
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_100">#FFCDD2</color>
+    
+    <color name="orange_500">#FF9800</color>
+    <color name="orange_700">#F57C00</color>
+    <color name="orange_200">#FFCC80</color>
+    <color name="orange_100">#FFE0B2</color>
+    
+    <!-- App Specific Colors -->
+    <color name="primary_background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="shimmer">#E0E0E0</color>
+    <color name="overlay">#80000000</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_card">#2D2D2D</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3B3B3</color>
+    <color name="dark_divider">#404040</color>
+</resources>

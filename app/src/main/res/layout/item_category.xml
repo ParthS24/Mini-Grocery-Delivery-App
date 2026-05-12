@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="80dp"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="12dp"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="2dp"
+    app:rippleColor="@color/yellow_200">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <ImageView
+            android:id="@+id/ivCategory"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="8dp"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/ic_fruits" />
+
+        <TextView
+            android:id="@+id/tvCategoryName"
+            style="@style/TextAppearance.MiniGrocery.CategoryName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            tools:text="Fruits" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
