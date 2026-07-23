@@ -422,6 +422,23 @@ For questions or support:
 
 **Built with ❤️ using Android, Kotlin, and Material Design**
 
+<img width="407" height="826" alt="Screenshot 2026-07-23 182350" src="https://github.com/user-attachments/assets/ad649c08-e53d-4cc8-9f27-0d0602ed27c4" />
+<img width="402" height="818" alt="Screenshot 2026-07-23 182418" src="https://github.com/user-attachments/assets/f7bebd17-379e-420b-a7ca-3af5929cfd76" />
+<img width="396" height="816" alt="Screenshot 2026-07-23 182524" src="https://github.com/user-attachments/assets/418e5917-9d24-492e-9922-d68560fb0555" />
+<img width="395" height="807" alt="Screenshot 2026-07-23 182645" src="https://github.com/user-attachments/assets/242ef20d-5b92-4ea3-a867-06f6ce9f175b" />
+<img width="412" height="805" alt="Screenshot 2026-07-23 182732" src="https://github.com/user-attachments/assets/e55c8ad3-add2-4bb0-a631-8229bb7048fe" />
+<img width="440" height="820" alt="Screenshot 2026-07-23 182752" src="https://github.com/user-attachments/assets/919e44cd-3d55-4992-b6a4-797b37983dc7" />
+<img width="446" height="822" alt="Screenshot 2026-07-23 182806" src="https://github.com/user-attachments/assets/6d1b4649-a20b-475b-aef4-133b000c13cc" />
+<img width="452" height="828" alt="Screenshot 2026-07-23 182824" src="https://github.com/user-attachments/assets/c433b476-0eff-4d1e-9c8a-dbdf3fbe95c9" />
+
+
+
+
+
+
+
+
+
 
 
 
