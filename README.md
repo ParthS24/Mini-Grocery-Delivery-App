@@ -421,3 +421,16 @@ For questions or support:
 ---
 
 **Built with ❤️ using Android, Kotlin, and Material Design**
+
+<img width="1280" height="2856" alt="Screenshot_20260723_160824" src="https://github.com/user-attachments/assets/3c7f8166-a353-40c4-a84f-8dfeafc70339" />
+<img width="1280" height="2856" alt="Screenshot_20260723_160909" src="https://github.com/user-attachments/assets/1338abcd-4bcb-44dc-b41c-63a7c8693eea" />
+<img width="1280" height="2856" alt="Screenshot_20260723_160922" src="https://github.com/user-attachments/assets/be1629d6-840f-4291-be5c-8a36a56e3ce4" />
+<img width="1280" height="2856" alt="Screenshot_20260723_160942" src="https://github.com/user-attachments/assets/c8628d1d-1c30-43c1-a01a-d24a6195cbd1" />
+<img width="1280" height="2856" alt="Screenshot_20260723_160959" src="https://github.com/user-attachments/assets/90e5ee76-3484-4412-b030-a3d521efa498" />
+<img width="1280" height="2856" alt="Screenshot_20260723_161028" src="https://github.com/user-attachments/assets/7e5874c4-8e9a-4837-a3a4-38c447eadc39" />
+
+
+
+
+
+
